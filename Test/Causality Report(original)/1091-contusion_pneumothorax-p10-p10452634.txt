@@ -1,1 +1,0 @@
-Causal Exploration: The presence of pulmonary contusion and possible fluid in the pleural space can be explained by the findings of contusion and pleural effusion. The location information of these findings includes the Left Upper Lobe (LUL), Left Lower Lobe (LLL), and Left Pleural, as well as specific locations at {6, 11}.

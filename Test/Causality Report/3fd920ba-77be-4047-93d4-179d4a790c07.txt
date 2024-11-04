@@ -1,2 +1,0 @@
-Causal Exploration:
-Finding pneumonia and pleural effusion in the right lower lobe and right pleural space. Location information includes regions RLL (Right Lower Lobe) and Right Pleural, with specific areas {7, 9}.

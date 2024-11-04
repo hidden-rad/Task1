@@ -1,2 +1,0 @@
-Causal Exploration:
-The findings of pleural effusion and atelectasis, located in the Left Pleural and LLL (Left Lower Lobe) regions respectively, are noted. The pleural effusion is causing compressive effects leading to atelectasis. The areas of interest are specified as {6, 11}.

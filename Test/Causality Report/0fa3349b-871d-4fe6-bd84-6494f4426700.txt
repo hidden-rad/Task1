@@ -1,2 +1,0 @@
-Causal Exploration: The findings of pleural effusion and cardiomegaly suggest that there is fluid accumulation in the pleural space and an enlarged heart. The left pleural effusion is likely located in the Left Pleural space, while the heart enlargement involves the Left Ventricle, Right Ventricle, Left Atrium, and Right Atrium. The observations indicate that the cardiothoracic ratio exceeds 50%, which is abnormal.
-```
