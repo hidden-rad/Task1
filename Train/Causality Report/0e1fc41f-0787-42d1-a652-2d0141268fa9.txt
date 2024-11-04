@@ -1,0 +1,3 @@
+Causal Exploration:
+Finding pleural effusion is called pleural effusion. The location information of the finding is Left Pleural and {10, 12}. The moderate-sized bilateral pleural effusions, left greater than right, with left basal atelectasis, are consistent with the observations.
+```
