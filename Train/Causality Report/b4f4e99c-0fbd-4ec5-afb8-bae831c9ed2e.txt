@@ -1,0 +1,4 @@
+CAUSAL EXPLORATION:
+ 
+ The finding of a clear lung field without consolidation, effusion, or edema (A1) indicates an absence of acute lung pathology (A2). The location information of the clear lung fields (A3) confirms the lungs are clear. Therefore, the clear lungs (A4) causally explain the absence of an acute cardiopulmonary process (A1).
+```

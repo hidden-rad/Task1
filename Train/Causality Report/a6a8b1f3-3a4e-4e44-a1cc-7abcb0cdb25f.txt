@@ -1,0 +1,4 @@
+Causal Exploration:
+
+The finding of calcification of the aortic arch indicates atherosclerosis, which may contribute to the patient's symptoms of wheezing and shortness of breath (A4). The normal heart size and clear lungs suggest that volume overload is not present, which helps in excluding one possible cause of the symptoms. The absence of pleural effusion or pneumothorax further supports the conclusion that there is no acute cardiopulmonary abnormality. 
+```
