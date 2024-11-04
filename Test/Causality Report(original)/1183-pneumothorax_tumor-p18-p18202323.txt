@@ -1,0 +1,1 @@
+Causal Exploration: Metastasis is found in the Right Upper Lobe (RUL) and the Right Middle Lobe (RML). The location information of the finding includes the areas {2, 12}. This indicates an abnormal increase in density in these regions, consistent with the presence of metastasis.
