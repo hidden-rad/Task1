@@ -1,4 +1,0 @@
-Causal Exploration:
-
- The finding of no acute cardiopulmonary abnormality (A1) is based on the examination of the chest (PA and LAT) (A3). The location information (A2) includes the heart, aorta, mediastinum, hilar contours, pulmonary vasculature, lungs, and osseous structures. The indication for the exam was the patient's report of shortness of breath and chest pain (A4). The normal heart size and clear lungs support the conclusion of no acute cardiopulmonary abnormality.
-```

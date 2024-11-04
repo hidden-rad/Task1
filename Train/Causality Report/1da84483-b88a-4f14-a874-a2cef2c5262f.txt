@@ -1,2 +1,0 @@
-CAUSAL EXPLORATION:
-Finding a left pectoral tender mass (A1) in the patient (A2) located in the chest area (A3) following a motor vehicle collision one month ago (A4) prompts a recommendation for ultrasound if clinical concern persists. The clear lungs and absence of pneumothorax, pleural effusion, or displaced rib fracture further guide the decision to consider ultrasound for evaluating the soft tissue mass.

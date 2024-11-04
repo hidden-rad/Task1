@@ -1,1 +1,0 @@
-Causal Exploration: Atelectasis is observed in the left lower lobe (LLL) at locations {8, 10}. The presence of a large hiatal hernia can cause adjacent lung compression, leading to atelectasis in the left lower lobe. This compression restricts proper lung expansion, contributing to the streaky opacities observed at the left base.

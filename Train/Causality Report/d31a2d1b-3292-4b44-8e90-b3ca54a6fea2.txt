@@ -1,5 +1,0 @@
-Causal Exploration: 
-The upper mediastinal mass is identified as a thyroid goiter, confirming the presence of mass in the Anterior Mediastinum (A1). There are no signs of tracheal narrowing or deviation, and the hilar contours remain unchanged, as expected (A2, A3). The normal heart size and lack of pleural effusions or pneumothorax further support the absence of acute disease (A4).
-
-IMPRESSION:  No evidence of acute disease.
-```

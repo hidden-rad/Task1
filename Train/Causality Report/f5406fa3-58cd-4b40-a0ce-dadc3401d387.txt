@@ -1,3 +1,0 @@
-Causal Exploration:
- Finding pleural effusion is noted with increased effusion on the right and small effusion on the left. The location information of the finding includes both Left Pleural and Right Pleural regions, with specific reference to the costophrenic angle blunting at positions {5, 11}.
-```

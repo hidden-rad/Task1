@@ -1,2 +1,0 @@
-Causal Exploration: The inability to obtain blood return (A1) is due to the sharply bent left pectoral infusion port catheter (A4) at the confluence of left subclavian and superior vena cava (A2). This bending has been identified as a new change since the last comparison (A3). This malposition could obstruct proper function of the port, leading to the clinical issue observed.
-```
