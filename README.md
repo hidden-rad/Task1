@@ -38,3 +38,4 @@ This exploration report should be generated through the participant’s own appr
 
 ## Example Structure of Output
 
+![Example for Task 1](./images/Task1_ex.png "Task 1 Overview")
