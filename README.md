@@ -39,3 +39,26 @@ This exploration report should be generated through the participant’s own appr
 ## Example Structure of Output
 
 ![Example for Task 1](./images/Task1_ex.png "Task 1 Overview")
+
+
+## Evaluation
+To evaluate the effectiveness of the generated "Causal Exploration" output, the following metrics will be applied:
+
+#### BLEU: 
+Measures the precision of the generated causality text by comparing it to reference text, evaluating word overlap and sequence accuracy.
+
+#### ROUGE : Focuses on recall by measuring how much of the reference causality information is captured in the generated output.
+
+#### METEOR : 
+Considers exact matches, synonyms, and stemming to provide a nuanced similarity measure between generated and reference text.
+
+#### BERT Score: 
+A semantic similarity metric that uses contextual embeddings to assess how well the generated text captures the meaning of the reference causality.
+
+#### Cosine Similarity: 
+Measures the similarity between the generated causality vector and the reference causality vector. This metric evaluates how closely the generated causality aligns with the reference in semantic space.
+
+#### BioSentVec-based Evaluation: 
+BioSentVec, a model trained on PubMed and MIMIC-III clinical notes, will be used to generate sentence embeddings for both the generated and reference causality texts. Cosine similarity will then be applied to these embeddings to measure coherence and semantic accuracy in the biomedical context.
+
+These evaluation metrics provide a comprehensive assessment of the quality and accuracy of the "Causal Exploration" section, ensuring that it aligns with the reference data both in terms of content and semantic meaning.
