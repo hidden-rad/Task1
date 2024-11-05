@@ -1,12 +1,12 @@
 # Task 1 : Generating Causality Reports
 
 ## Introduction
-Task 1 focuses on generating causality reports based on MIMIC-CXR data. The objective is to utilize radiology reports and images from the MIMIC-CXR dataset to uncover hidden causality relationships within the diagnostic process. Participants are tasked with using data to develop their own methods or models that can interpret the report content, aiming to generate a causality exploration report that mirrors the thought process of a radiologist.
+Task 1 focuses on generating causality reports based on MIMIC-CXR data. Participants use radiology reports and DICOM images from the MIMIC-CXR dataset to uncover hidden causality relationships, simulating a diagnostic process. The image input (DICOM) is optional, allowing participants to decide whether to include the image data as part of their analysis. Additionally, participants may choose to incorporate their own knowledge bases, ontologies, or other external resources as optional inputs, further enhancing their causality analysis with additional context and domain-specific insights.
 
 ![Diagram for Task 1](./images/Task1_bg.png "Task 1 Overview")
 
 ## Goal
-The primary goal of Task 1 is to simulate diagnostic reasoning by identifying and documenting causality in radiology reports. By analyzing the MIMIC-CXR data, the generated causality report will help provide insights into the connections between findings, symptoms, and potential diagnoses. This task challenges participants to go beyond simple data analysis and delve into the reasoning process, offering a deeper understanding of radiological findings and their causal relationships.
+The goal is to simulate diagnostic reasoning by identifying and documenting causality within radiology reports. By analyzing MIMIC-CXR data, participants will generate a causality exploration report that reflects a radiologist’s thought process. This process can be enriched by optionally including image data or leveraging external resources, such as custom knowledge bases or ontologies, to improve the accuracy and depth of the causality exploration.
 
 ## Data Format
 #### Dir: 
