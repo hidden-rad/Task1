@@ -8,7 +8,7 @@ Task 1 focuses on generating causality reports based on MIMIC-CXR data. The obje
 ## Goal
 The primary goal of Task 1 is to simulate diagnostic reasoning by identifying and documenting causality in radiology reports. By analyzing the MIMIC-CXR data, the generated causality report will help provide insights into the connections between findings, symptoms, and potential diagnoses. This task challenges participants to go beyond simple data analysis and delve into the reasoning process, offering a deeper understanding of radiological findings and their causal relationships.
 
-## Input
+## Data
 #### Dir: 
 This directory path contains the MIMIC-CXR files. It includes the reports (text files) and images (DICOM files) corresponding to each case. Participants can use this path to access the relevant files for processing.<br>
 Example: **./physionet.org/files/mimic-cxr/2.1.0/files/p13/p13369881**
