@@ -9,7 +9,7 @@ Task 1 focuses on generating causality reports based on MIMIC-CXR data. Particip
 The goal is to simulate diagnostic reasoning by identifying and documenting causality within radiology reports. By analyzing MIMIC-CXR data, participants will generate a causality exploration report that reflects a radiologist’s thought process. This process can be enriched by optionally including image data or leveraging external resources, such as custom knowledge bases or ontologies, to improve the accuracy and depth of the causality exploration.
 
 ## Data Format
-The input data for Task 1 is provided in CSV format, containing relevant information for each case in a structured tabular form. Each row in the CSV file represents a single case, with the following columns:
+The data for Task 1 is provided in CSV format, containing relevant information for each case in a structured tabular form. Each row in the CSV file represents a single case, with the following columns:
 
 #### Dir: 
 This directory path contains the MIMIC-CXR files. It includes the reports (text files) and images (DICOM files) corresponding to each case. Participants can use this path to access the relevant files for processing.<br>
