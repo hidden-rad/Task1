@@ -47,7 +47,8 @@ To evaluate the effectiveness of the generated "Causal Exploration" output, the 
 #### BLEU: 
 Measures the precision of the generated causality text by comparing it to reference text, evaluating word overlap and sequence accuracy.
 
-#### ROUGE : Focuses on recall by measuring how much of the reference causality information is captured in the generated output.
+#### ROUGE : 
+Focuses on recall by measuring how much of the reference causality information is captured in the generated output.
 
 #### METEOR : 
 Considers exact matches, synonyms, and stemming to provide a nuanced similarity measure between generated and reference text.
