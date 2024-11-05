@@ -1,5 +1,4 @@
-# Task 1 
-# Generating Causality Reports
+# Task 1 : Generating Causality Reports
 
 ## Introduction
 Task 1 focuses on generating causality reports based on MIMIC-CXR data. The objective is to utilize radiology reports and images from the MIMIC-CXR dataset to uncover hidden causality relationships within the diagnostic process. Participants are tasked with using data to develop their own methods or models that can interpret the report content, aiming to generate a causality exploration report that mirrors the thought process of a radiologist.
