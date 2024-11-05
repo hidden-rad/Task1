@@ -1,4 +1,4 @@
-# Task 1 : Generating Causality Reports
+![image](https://github.com/user-attachments/assets/3ab99a09-744d-4c29-9f52-f9aa72e1ff5b)# Task 1 : Generating Causality Reports
 
 ## Introduction
 Task 1 focuses on generating causality reports based on MIMIC-CXR data. The objective is to utilize radiology reports and images from the MIMIC-CXR dataset to uncover hidden causality relationships within the diagnostic process. Participants are tasked with using data to develop their own methods or models that can interpret the report content, aiming to generate a causality exploration report that mirrors the thought process of a radiologist.
@@ -11,19 +11,19 @@ The primary goal of Task 1 is to simulate diagnostic reasoning by identifying an
 ## Input
 #### Dir: 
 This directory path contains the MIMIC-CXR files. It includes the reports (text files) and images (DICOM files) corresponding to each case. Participants can use this path to access the relevant files for processing.<br>
-Example: **./physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000975**
+Example: **./physionet.org/files/mimic-cxr/2.1.0/files/p13/p13369881**
 
 #### Report_name: 
 The name of the report file associated with each case. Each report provides a detailed analysis of the patient’s condition, which will serve as the basis for the causality exploration.<br>
-Example: **s56016012.txt**
+Example: **s54086770.txt**
 
 #### DICOM_name: 
 The name of the DICOM file, which contains the CXR (Chest X-Ray) image associated with the report. Although the main focus is on the text report, participants may choose to incorporate image analysis if relevant.<br>
-Example: **989619d4-840b984d-3188207f-1599e894-f3fdc15c.dcm**
+Example: **07145c92-7fd06870-9d53917d-067ad184-dbaa11d8.dcm**
 
 #### Case_ID:
 A unique identifier for each case, linking it to a ground-truth causality report. The ground-truth report is created by radiologists and contains validated causality relationships, which participants can use as a benchmark for validation and evaluation of their own models.<br>
-Example: **bcd4a40c-ac9c-4ba4-913c-2ae6834f3b7d**
+Example: **182f51c3-e5bc-4c19-97c1-3f427bf25af9**
 
 ## Output
 The output of Task 1 is a causality exploration report. This report should provide a structured analysis of the radiology findings, highlighting potential causative relationships that could lead to a better understanding of the patient's condition. The report should reflect the diagnostic reasoning process by documenting how various symptoms and findings may be interlinked. For example, a finding of "pleural effusion" may be linked causally to "heart failure" if observed in the patient's medical history.
