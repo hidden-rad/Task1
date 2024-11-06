@@ -23,7 +23,7 @@ Example: **s54086770.txt**
 The name of the DICOM file, which contains the CXR (Chest X-Ray) image associated with the report. Although the main focus is on the text report, participants may choose to incorporate image analysis if relevant.<br>
 Example: **07145c92-7fd06870-9d53917d-067ad184-dbaa11d8.dcm**
 
-#### Case_ID:
+#### Causal section:
 A unique identifier for each case, linking it to a ground-truth causality report. The ground-truth report is created by radiologists and contains validated causality relationships, which participants can use as a benchmark for validation and evaluation of their own models.<br>
 Example: **182f51c3-e5bc-4c19-97c1-3f427bf25af9**
 
