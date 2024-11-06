@@ -46,10 +46,8 @@ A set of 10 folders (p10 - p19), each with ~6,500 sub-folders. Sub-folders are n
 Free-text reports and images are provided in individual folders. An example of the folder structure for a single patient's images is as follows:
 
     files
-    
-        └── p10
-    
-            └── p10000032
+            └── p10
+                └── p10000032
     
                 ├── s50414267
     
