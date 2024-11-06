@@ -1,4 +1,4 @@
-Dir,Report_name,DICOM_name,Case_ID
+Dir,Report_name,DICOM_name,Causal section
 ./physionet.org/files/mimic-cxr/2.1.0/files/p15/p15011156,s56016012.txt,989619d4-840b984d-3188207f-1599e894-f3fdc15c.dcm,bcd4a40c-ac9c-4ba4-913c-2ae6834f3b7d
 ./physionet.org/files/mimic-cxr/2.1.0/files/p12/p12236712,s55009002.txt,6a6e2343-c12f2641-d419db8b-3a68f166-77e71b57.dcm,2aca109c-f6e7-42e5-84d0-460b1475206a
 ./physionet.org/files/mimic-cxr/2.1.0/files/p15/p15712372,s59737816.txt,"90c19008-baaef386-986f9e35-9ad41443-8997cd11.dcm,d939bd48-0818c509-c3652bd1-3bcd529c-66f14d93.dcm",b96574bc-7332-4d69-840e-e48ad6628e38
