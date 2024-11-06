@@ -1,4 +1,4 @@
-# Task 1 : Generating Causality Reports
+# Task 1: Generating Causality Reports
 
 ## Introduction
 Task 1 focuses on generating causality reports based on MIMIC-CXR data. Participants use radiology reports and DICOM images from the MIMIC-CXR dataset to uncover hidden causality relationships, simulating a diagnostic process. The image input (DICOM) is optional, allowing participants to decide whether to include the image data as part of their analysis. Additionally, participants may choose to incorporate their own knowledge bases, ontologies, or other external resources as optional inputs, further enhancing their causality analysis with additional context and domain-specific insights.
