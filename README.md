@@ -1,14 +1,12 @@
 # Task 1: Generating Causality Reports
 
 ## Introduction
-Task 1 focuses on generating a causality exploration report for the diagnosis in a radiology report. Task participants use the radiology reports and optionally DICOM images from the MIMIC-CXR dataset [1] to uncover hidden causality relationships in the report by using the task training dataset that  simulating a diagnostic process.  The image input (DICOM) is optional, allowing participants to decide whether to include the image data as part of their analysis. Additionally, participants may choose to incorporate their own knowledge bases, ontologies, or other external resources as optional inputs, further enhancing their causality analysis with additional context and domain-specific insights.
+Task 1 focuses on generating a causality exploration section for the diagnosis in a radiology report. Training set contains the relevant index to the Chest X-ray radiology reports and their DICOM images from the MIMIC-CXR dataset [1] with their corresponding  causality exploration sections that are collected by the  radiologists under the simulated diagnostic processes for the selected data from MIMIC-CXR dataset. The image input (DICOM) is optional, allowing participants to decide whether to include the image data as part of their analysis. Additionally, participants may choose to incorporate their own knowledge bases, ontologies, or other external resources as optional inputs, further enhancing their causality analysis with additional context and domain-specific insights.
 
 ![Diagram for Task 1](./images/Task1_bg.png "Task 1 Overview")
 
 ## Goal
-The goal is to simulate diagnostic reasoning by identifying and documenting causality within radiology reports. By analyzing MIMIC-CXR data, participants will generate a causality exploration report that reflects a radiologist’s diagnosis process by learning from the training dataset. This process can be enriched by optionally including image data or leveraging external resources, such as custom knowledge bases or ontologies, to improve the accuracy and depth of the causality exploration.
-
-
+The goal is to simulate diagnostic reasoning by identifying and documenting causality within radiology reports. Participants will generate a causality exploration section that reflects a radiologist’s diagnosis process for a given radiology report and optional image through learning from the training dataset. This process can be enriched by optionally external resources, such as custom knowledge bases or ontologies, to improve the accuracy and depth of the causality exploration.
 
 ## MIMIC Licensing
 You will need a MIMIC license to participate in this Task 1.
