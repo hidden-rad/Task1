@@ -29,16 +29,16 @@ This dataset is a public dataset distributed by physionet under MIMIC-CXR. In or
 3. To take the CITI course, you will need to create an account at https://about.citiprogram.org/ , and there are a few things to keep in mind.
 
 
-* You need to “Add affiliation” in “My Courses”, please search for “Massachusetts Institute of Technology Affiliates” to register. You can also register as an “independent learner” and pay the fee.
+     * You need to “Add affiliation” in “My Courses”, please search for “Massachusetts Institute of Technology Affiliates” to register. You can also register as an “independent learner” and pay the fee.
 
 
-* When registering by email, use your institutional address, not your personal address, if possible.
+     * When registering by email, use your institutional address, not your personal address, if possible.
 
 
-* Answer questions 1-3 to take the “Data or Specimens Only Research” course. For question 5, answer “yes” to “conflict of interest”.
+     * Answer questions 1-3 to take the “Data or Specimens Only Research” course. For question 5, answer “yes” to “conflict of interest”.
 
 
-It may take a while to confirm your enrollment afterward.
+     It may take a while to confirm your enrollment afterward.
 
 
 4. Education is a form of examination based on electronic documents, and the training site is https://www.citiprogram.org/members/index.cfm?pageID=50. There is a wide variety of training, but there is a list of things you need to do to get the data. The list of trainings can be found at the URL above.
