@@ -38,55 +38,18 @@ This dataset is a public dataset distributed by physionet under MIMIC-CXR. In or
 
 
 ## MIMIC Data Folder structure
-MIMIC-CXR v2.0.0 contains:
 
-A set of 10 folders (p10 - p19), each with ~6,500 sub-folders. Sub-folders are named according to the patient identifier, and contain free-text reports and DICOM files for all studies for that patient
+To view the structure of the MIMIC data folders, please refer to the Data Description section on the MIMIC-CXR dataset page: https://physionet.org/content/mimic-cxr/2.1.0/. Specific details are available under Overview and Folder Structure.
 
-
-Free-text reports and images are provided in individual folders. An example of the folder structure for a single patient's images is as follows:
-
-    files
-            └── p10
-                └── p10000032
-    
-                ├── s50414267
-    
-                │   ├── 02aa804e-bde0afdd-112c0b34-7bc16630-4e384014.dcm
-    
-                │   └── 174413ec-4ec4c1f7-34ea26b7-c5f994f8-79ef1962.dcm
-    
-                ├── s50414267.txt
-    
-                ├── s53189527
-    
-                │   ├── 2a2277a9-b0ded155-c0de8eb9-c124d10e-82c5caab.dcm
-    
-                │   └── e084de3b-be89b11e-20fe3f9f-9c8d8dfe-4cfd202c.dcm
-    
-                ├── s53189527.txt
-    
-                ├── s53911762
-    
-                │   ├── 68b5c4b1-227d0485-9cc38c3f-7b84ab51-4b472714.dcm
-    
-                │   └── fffabebf-74fd3a1f-673b6b41-96ec0ac9-2ab69818.dcm
-    
-                ├── s53911762.txt
-    
-                ├── s56699142
-    
-                │   └── ea030e7a-2e3b1346-bc518786-7a8fd698-f673b44c.dcm
-    
-                └── s56699142.txt
-
-Above, we have a single patient, p10000032. Since the first three characters of the folder name are p10, the patient folder is in the p10/ folder. This patient has four radiographic studies: s50414267, s53189527, s53911762, and s56699142. These study identifiers are completely random, and their order has no implications for the chronological order of the actual studies. Each study has two chest x-rays associated with it, except s56699142, which only has one study.
-
-
-Ref: https://physionet.org/content/mimic-cxr/2.1.0/ 
+### References
+Johnson, A., Pollard, T., Mark, R., Berkowitz, S., & Horng, S. (2024). MIMIC-CXR Database (version 2.1.0). PhysioNet. https://doi.org/10.13026/4jqj-jw95.
+Johnson, A.E.W., Pollard, T.J., Berkowitz, S.J., et al. (2019). MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports. Scientific Data, 6, 317. https://doi.org/10.1038/s41597-019-0322-0.
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation, 101 (23), pp. e215–e220.
 
 ## Data Format
 The data for Task 1 is provided in CSV format, containing relevant information for each case in a structured tabular form. Each row in the CSV file represents a single case, with the following columns:
 
+### MIMIC Data part
 #### Dir: 
 This directory path contains the MIMIC-CXR files. It includes the reports (text files) and images (DICOM files) corresponding to each case. Participants can use this path to access the relevant files for processing.<br>
 Example: **./physionet.org/files/mimic-cxr/2.1.0/files/p13/p13369881**
@@ -99,6 +62,7 @@ Example: **s54086770.txt**
 The name of the DICOM file, which contains the CXR (Chest X-Ray) image associated with the report. Although the main focus is on the text report, participants may choose to incorporate image analysis if relevant.<br>
 Example: **07145c92-7fd06870-9d53917d-067ad184-dbaa11d8.dcm**
 
+### Ground-truth part
 #### Causal section:
 A unique identifier for each case, linking it to a ground-truth causality report. The ground-truth report is created by radiologists and contains validated causality relationships, which participants can use as a benchmark for validation and evaluation of their own models.<br>
 Example: **182f51c3-e5bc-4c19-97c1-3f427bf25af9**
