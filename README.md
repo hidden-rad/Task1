@@ -16,9 +16,8 @@ Participants will use the provided **training set**, which includes paired examp
 Participants are required to build a **running module** (also referred to as the **inference module**) that can take any new input (a radiology report with or without an X-ray image) and generate the corresponding causality exploration section based on the learned transformation. This module will be deployed and tested on our evaluation server via API to assess its accuracy and effectiveness on **testing inputs** that were not included in the training set.
 
 ## MIMIC Licensing
-You will need a MIMIC license to participate in this Task 1.
 
-To obtain a MIMIC license, please follow the instructions below. If you already have a MIMIC license and need the MIMIC-CXR image, please refer to the 'readme.md' in the 'MIMIC_data' repository on Github.
+To obtain a MIMIC license, please follow the instructions below. If you already have a MIMIC license and need the MIMIC-CXR image, please refer to the 'readme.md' in the 'MIMIC_data' repository on Github: https://github.com/hidden-rad/MIMIC_data. 
 
 ## MIMIC Licensing Permissions
 
