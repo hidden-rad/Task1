@@ -5,8 +5,15 @@ Task 1 focuses on generating a causality exploration section for the diagnosis i
 
 ![Diagram for Task 1](./images/Task1_bg.png "Task 1 Overview")
 
-## Goal
-The goal is to simulate diagnostic reasoning by identifying and documenting causality within radiology reports. Participants will generate a causality exploration section that reflects a radiologist’s diagnosis process for a given radiology report and optional image through learning from the training dataset. This process can be enriched by optionally external resources, such as custom knowledge bases or ontologies, to improve the accuracy and depth of the causality exploration.
+## Task definition
+
+The objective of this shared task is to develop a model that learns to map a set of **input data**—consisting of radiology reports, optionally accompanied by chest X-ray images—to a corresponding set of **output data** that includes a **causality exploration section**. This section would not typically be described in the initial radiology report but has been recovered and verified by radiology experts based on a structured **diagnosis confirmation checklist**.
+
+The **input data** for this task is sourced from the **MIMIC database** [1], a large, publicly available database of healthcare information. Participants must individually acquire the necessary licensing and permissions to access MIMIC data. The task organizers will provide the access method for participants who hold a valid MIMIC license, enabling them to retrieve and utilize the input data in line with MIMIC’s licensing requirements.
+
+Participants will use the provided **training set**, which includes paired examples of input data (radiology report and optional X-ray image) and output data (causality exploration section), to train a **learning module**. This module should capture the underlying patterns and infer causal information that experts derive from both the report content and the diagnosis confirmation process.
+
+Participants are required to build a **running module** (also referred to as the **inference module**) that can take any new input (a radiology report with or without an X-ray image) and generate the corresponding causality exploration section based on the learned transformation. This module will be deployed and tested on our evaluation server via API to assess its accuracy and effectiveness on **testing inputs** that were not included in the training set.
 
 ## MIMIC Licensing
 You will need a MIMIC license to participate in this Task 1.
