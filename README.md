@@ -49,7 +49,7 @@ This dataset is a public dataset distributed by physionet under MIMIC-CXR. In or
 
 ## MIMIC Data Folder structure
 
-To view the structure of the MIMIC data folders, please refer to the Data Description section on the MIMIC-CXR dataset page: https://physionet.org/content/mimic-cxr/2.1.0/. Specific details are available under Overview and Folder Structure.
+To view the structure of the MIMIC data folders, please refer to the Data Description section on the MIMIC-CXR database description page: https://physionet.org/content/mimic-cxr/2.1.0/ [1]. Specific details are available under Overview and Folder Structure.
 
 ### References
 [1] Johnson, A., Pollard, T., Mark, R., Berkowitz, S., & Horng, S. (2024). MIMIC-CXR Database (version 2.1.0). PhysioNet. https://doi.org/10.13026/4jqj-jw95.<br>
