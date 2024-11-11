@@ -7,7 +7,7 @@ Task 1 focuses on generating a causality exploration section for the diagnosis i
 
 ## Task definition
 
-The objective of this shared task is to develop a model that learns to map a set of **input data**—consisting of radiology reports, optionally accompanied by chest X-ray images—to a corresponding set of **output data** that includes a **causality exploration section**. This section would not typically be described in the initial radiology report but has been recovered and verified by radiology experts based on a structured **diagnosis confirmation checklist**.
+The objective of this task is to develop a model that learns to map a set of **input data**—consisting of radiology reports, optionally accompanied by chest X-ray images—to a corresponding set of **output data** that includes a **causality exploration section**. This section would not typically be described in the initial radiology report but has been recovered and verified by radiology experts based on a structured **diagnosis confirmation checklist**.
 
 The **input data** for this task is sourced from the **MIMIC database** [1], a large, publicly available database of healthcare information. Participants must individually acquire the necessary licensing and permissions to access MIMIC data. The task organizers will provide the access method to the relevant data for participants who hold a valid MIMIC license, enabling them to retrieve and utilize the input data in line with MIMIC’s licensing requirements.
 
