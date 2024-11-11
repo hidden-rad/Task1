@@ -3,7 +3,7 @@
 ## Introduction
 Task 1 focuses on generating a causality exploration section for the diagnosis in radiology report. Training set contains the relevant index to the Chest X-ray radiology reports and their DICOM images from the MIMIC-CXR dataset [1] with their corresponding  causality exploration sections that are collected by the  radiologists under the simulated diagnostic processes for the selected data from MIMIC-CXR dataset. The image input (DICOM) is optional, allowing participants to decide whether to include the image data as part of their analysis. Additionally, participants may choose to incorporate their own knowledge bases, ontologies, or other external resources as optional inputs, further enhancing their causality analysis with additional context and domain-specific insights.
 
-![Diagram for Task 1](./images/Task1_bg.png "Task 1 Overview")
+![Diagram for Task 1](./images/Task1.png "Task 1 Overview")
 
 ## Task definition
 
