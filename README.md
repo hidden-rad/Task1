@@ -42,8 +42,6 @@ This dataset is a public dataset distributed by physionet under MIMIC-CXR. In or
 
 6. Create Data Utilization Consent: At the bottom of the link above https://physionet.org/content/mimic-cxr/2.1.0/, there is a final process including the contents introduced so far. If you click on the data usage agreement and sign in after logging in, a review is requested to MIT. 
 
-7. If you have completed all the steps so far and have been reviewed by MIT, access github via the Google form above.
-
 ## MIMIC Data Folder structure
 
 To view the structure of the MIMIC data folders, please refer to the Data Description section on the MIMIC-CXR database description page: https://physionet.org/content/mimic-cxr/2.1.0/ [1]. Specific details are available under Overview and Folder Structure of Data Description section.
