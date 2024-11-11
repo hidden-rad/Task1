@@ -25,39 +25,27 @@ This dataset is a public dataset distributed by physionet under MIMIC-CXR. In or
 
 
 1. Physionet membership: Membership registration is performed through the URL below. 
-
      https://physionet.org/register/ 
-
 
 2. The training required for data consists of CITI courses, a detailed introduction to which can be found at https://physionet.org/about/citi-course/ (must read). 
 
-
 3. To take the CITI course, you will need to create an account at https://about.citiprogram.org/ , and there are a few things to keep in mind.
-
 
      * You need to “Add affiliation” in “My Courses”, please search for “Massachusetts Institute of Technology Affiliates” to register. You can also register as an “independent learner” and pay the fee.
 
-
      * When registering by email, use your institutional address, not your personal address, if possible.
-
 
      * Answer questions 1-3 to take the “Data or Specimens Only Research” course. For question 5, answer “yes” to “conflict of interest”.
 
-
      It may take a while to confirm your enrollment afterward.
-
 
 4. Education is a form of examination based on electronic documents, and the training site is https://www.citiprogram.org/members/index.cfm?pageID=50. There is a wide variety of training, but there is a list of things you need to do to get the data. The list of trainings can be found at the URL above.
 
-
 5. Download Certification and Submit Certificates You can download certification from "My Records" after completing all of the training. Subsequently, the downloaded certificate is submitted at https://physionet.org/settings/training/.
-
 
 6. Create Data Utilization Consent At the bottom of the link above https://physionet.org/content/mimic-cxr/2.1.0/, there is a final process including the contents introduced so far. If you click on the data usage agreement and sign in after logging in, a review is requested to MIT. 
 
-
 7. If you have completed all the steps so far and have been reviewed by MIT, access github via the Google form above.
-
 
 ## MIMIC Data Folder structure
 
