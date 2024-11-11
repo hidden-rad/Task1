@@ -19,10 +19,7 @@ Participants are required to build a **running module** (also referred to as the
 
 To obtain a MIMIC license, please follow the instructions below. If you already have a MIMIC license and need the MIMIC-CXR image, please refer to the 'readme.md' in the 'MIMIC_data' repository on Github: https://github.com/hidden-rad/MIMIC_data. 
 
-## MIMIC Licensing Permissions
-
 This dataset is a public dataset distributed by physionet under MIMIC-CXR. In order to use the dataset, it is necessary to perform relevant training and obtain permission for use authentication from the data organizer, MIT. Since the dataset itself corresponds to a human body-derived material and contains a considerable amount of personal information, the screening process and training procedure are as follows.
-
 
 1. Physionet membership: Membership registration is performed through the URL below. 
      https://physionet.org/register/ 
