@@ -54,6 +54,9 @@ To view the structure of the MIMIC data folders, please refer to the Data Descri
 ## Data Format
 The data for Task 1 is provided in CSV format, containing relevant information for each case in a structured tabular form. Each row in the CSV file represents a single case, with the following columns:
 
+### Dataset Division
+The data is divided into Train and Test sets based on the diseases associated with each case and the frequency of those diseases. This division ensures a balanced representation of cases across the sets. Participants can choose to use the pre-divided Train and Test sets as provided, or they may combine the two sets and split the data according to their own criteria to suit their methodology or analysis goals.
+
 ### MIMIC Data part
 #### Dir: 
 This directory path contains the MIMIC-CXR files. It includes the reports (text files) and images (DICOM files) corresponding to each case. Participants can use this path to access the relevant files for processing.<br>
