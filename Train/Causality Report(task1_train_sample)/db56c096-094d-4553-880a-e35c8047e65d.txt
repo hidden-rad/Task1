@@ -1,4 +1,0 @@
-Causal Exploration:
-
-The finding "Lungs are clear" indicates that there is no pulmonary edema or pneumonia. Since the indication mentioned a history of CHF and orthopnea with productive cough, the clear lungs suggest that the patient's symptoms are not currently due to acute cardiopulmonary issues. Additionally, the absence of pleural effusion or pneumothorax further supports that the patient's respiratory symptoms are not due to these acute conditions. This aligns with the final impression of no acute cardiopulmonary abnormality.
-```
