@@ -7,6 +7,11 @@ Task 1 focuses on generating a causality exploration section for the diagnosis i
 
 ![Example for Task 1](./images/task1-sample.png "Task 1 Example Structure")
 
+# How to get the data
+1. The text report parts corresponding to this training set and (optional) Chest X-ray image files originated from MIMIC database are listed in https://github.com/hidden-rad/MIMIC_data.
+
+2. Files for causality sections are listed in https://github.com/hidden-rad/Task1/tree/main/Train.
+ 
 ![Diagram for Task 1](./images/task1.png "Task 1 Overview")
 
 ## Task definition
