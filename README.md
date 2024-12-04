@@ -3,6 +3,10 @@
 ## Introduction
 Task 1 focuses on generating a causality exploration section for the diagnosis in radiology report. Training set contains the relevant index to the Chest X-ray radiology reports and their DICOM images from the MIMIC-CXR dataset [1] with their corresponding  causality exploration sections that are collected by the  radiologists under the simulated diagnostic processes for the selected data from MIMIC-CXR dataset. The image input (DICOM) is optional, allowing participants to decide whether to include the image data as part of their analysis. Additionally, participants may choose to incorporate their own knowledge bases, ontologies, or other external resources as optional inputs, further enhancing their causality analysis with additional context and domain-specific insights.
 
+## Example Structure of Output
+
+![Example for Task 1](./images/task1-sample.png "Task 1 Example Structure")
+
 ![Diagram for Task 1](./images/task1.png "Task 1 Overview")
 
 ## Task definition
@@ -83,8 +87,5 @@ The report must begin with the fixed heading **"Causal Exploration:"** followed 
 **Generate Causality Analysis**: Using your own model or method, identify and document causal relationships. For example, you may employ a text analysis model that recognizes patterns indicative of causation, such as certain phrasing or repeated co-occurrences of terms.<br>
 **Format the Report**: Structure the causality analysis into a clear format. Create a section titled "Causal Exploration" where you will output the analyzed causality information. This "Causal Exploration" section should capture all identified causative links and reasoning based on the provided data. Submit this "Causal Exploration" section, not the full report.
 
-## Example Structure of Output
-
-![Example for Task 1](./images/task1-sample.png "Task 1 Example Structure")
 
 
