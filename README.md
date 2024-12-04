@@ -8,9 +8,9 @@ Task 1 focuses on generating a causality exploration section for the diagnosis i
 ![Example for Task 1](./images/task1-sample.png "Task 1 Example Structure")
 
 # How to get the data
-1. The Radiology report parts for Task Input corresponding to this training set and (optional) Chest X-ray image files originated from MIMIC database are listed in https://github.com/hidden-rad/MIMIC_data. The MIMIC license is required to access the MIMIC database and the licencing procedure is described there.
+1. The Radiology report parts for Task Input corresponding to this training set and (optional) Chest X-ray image files originated from MIMIC database are listed in https://github.com/hidden-rad/Task1/blob/main/Train/Train_sample(MIMIC).csv.  In https://github.com/hidden-rad/MIMIC_data, its access method is described. Note that the MIMIC license is required to access the MIMIC database and the licencing procedure is described there.
 
-2. Files for causality exploration sections in Task Output are listed in https://github.com/hidden-rad/Task1/tree/main/Train.
+2. Files for causality exploration sections in Task Output are listed in https://github.com/hidden-rad/Task1/tree/main/Train/Causality%20Report(task1_train_sample).
  
 ![Diagram for Task 1](./images/task1.png "Task 1 Overview")
 
